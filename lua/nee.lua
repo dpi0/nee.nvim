@@ -28,7 +28,7 @@ M.new_file = function()
       if value == "" then
         vim.cmd("enew")
       else
-        local path = M.opts.directory_path .. "/" .. value
+        local path = M.config.directory_path .. "/" .. value
         vim.cmd("enew")
         vim.api.nvim_buf_set_name(0, path)
       end
