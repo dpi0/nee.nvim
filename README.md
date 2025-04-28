@@ -2,6 +2,8 @@
 
 Create new files or unnamed buffers using a simple floating window.
 
+![screenshot](https://github.com/user-attachments/assets/f9d55f5f-45b5-46e7-910a-3505021ed070)
+
 ## Installation
 
 ### [LazyVim](https://github.com/LazyVim/LazyVim)
